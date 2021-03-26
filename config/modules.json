@@ -2,7 +2,25 @@
     {
         "moduleName" : "module1",
         "path"       : "modules/module1/module1.py",
+        "execute"    : false,
+        "description": "a simple example module",
+        "owner"      : ""
+    }, {
+        "moduleName" : "module2",
+        "path"       : "modules/module2/module2.py",
+        "execute"    : false,
+        "description": "a simple example module",
+        "owner"      : ""
+    }, {
+        "moduleName" : "module3",
+        "path"       : "modules/module3/module3.py",
         "execute"    : true,
+        "description": "a simple example module",
+        "owner"      : ""
+    }, {
+        "moduleName" : "module3_001",
+        "path"       : "modules/module3/module3_001.py",
+        "execute"    : false,
         "description": "a simple example module",
         "owner"      : ""
     }, {

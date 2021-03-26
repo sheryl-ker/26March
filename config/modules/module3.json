@@ -1,0 +1,12 @@
+{
+    "inputs"  : {},
+    "outputs" : {},
+    "params"  : {
+        "TODO": {
+            "func1": true,
+            "func2": false,
+            "func3": true
+        },
+        "param1": 2
+    }
+}
