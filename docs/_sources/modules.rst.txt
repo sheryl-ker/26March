@@ -9,6 +9,8 @@ Subpackages
 
    modules.celeryCheck
    modules.module1
+   modules.module2
+   modules.module3
    modules.versionedModule
 
 Module contents

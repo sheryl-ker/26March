@@ -1,0 +1,29 @@
+modules.module2 package
+=======================
+
+Submodules
+----------
+
+modules.module2.module2 module
+------------------------------
+
+.. automodule:: modules.module2.module2
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+modules.module2.utils module
+----------------------------
+
+.. automodule:: modules.module2.utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: modules.module2
+   :members:
+   :undoc-members:
+   :show-inheritance:
