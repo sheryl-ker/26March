@@ -1,6 +1,8 @@
 from logs import logDecorator as lD 
 import jsonref, pprint
 
+from lib.databaseIO import pgIO
+
 config = jsonref.load(open('../config/config.json'))
 logBase = config['logging']['logBase'] + '.modules.module3.module3'
 

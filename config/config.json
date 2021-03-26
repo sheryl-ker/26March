@@ -2,7 +2,7 @@
     "logging":{
         
         "logBase" : "26March",
-        "level"   : "INFO",
+        "level"   : "WARNING",
         "specs"   : {
 
             "file":{
